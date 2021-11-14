@@ -8,10 +8,10 @@
     communication skills, which support me to effectively
     communicate with others.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=PasinduBandaraa&label=Profile%20views&color=0e75b6&style=plastic" alt="PasinduBandaraa" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=PasinduBandaraa&label=Profile%20views&color=0e75b6&style=flat" alt="PasinduBandaraa" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PasinduBandaraa&theme=algolia" alt="PasinduBandaraa"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PasinduBandaraa&theme=dark" alt="PasinduBandaraa"  /></p>
 
 
 ## 🛠️ My Skills
