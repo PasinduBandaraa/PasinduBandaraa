@@ -149,6 +149,6 @@
 	
 </p>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=rudcnyvuwn42a0dekqceqa85k)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=rudcnyvuwn42a0dekqceqa85k&count={3}&width={700})
 
 <hr/>
