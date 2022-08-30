@@ -140,7 +140,7 @@
 
 ## 🎧 Can't code without music
 
-![spotify](https://spotify-recently-played-readme.vercel.app/api?user=rudcnyvuwn42a0dekqceqa85k)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=rudcnyvuwn42a0dekqceqa85k&width={500})
 
 
 ## 🙋‍♀️ Let's Connect
