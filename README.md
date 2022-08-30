@@ -150,6 +150,6 @@
 </p>
 
 ## 🎧 Can't code without music
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=rudcnyvuwn42a0dekqceqa85k&count={3})
+![test](https://spotify-recently-played-readme.vercel.app/api?user=rudcnyvuwn42a0dekqceqa85k)
 
 <hr/>
