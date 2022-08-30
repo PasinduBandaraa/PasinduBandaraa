@@ -138,6 +138,11 @@
 
 <br/>
 
+## 🎧 Can't code without music
+<p align="center">
+![test](https://spotify-recently-played-readme.vercel.app/api?user=rudcnyvuwn42a0dekqceqa85k)
+</p>
+
 ## 🙋‍♀️ Let's Connect
 <p align="center">
   <a href="https://sites.google.com/view/pasindubandara/home/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
@@ -149,7 +154,6 @@
 	
 </p>
 
-## 🎧 Can't code without music
-![test](https://spotify-recently-played-readme.vercel.app/api?user=rudcnyvuwn42a0dekqceqa85k)
+
 
 <hr/>
