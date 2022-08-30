@@ -139,9 +139,9 @@
 <br/>
 
 ## 🎧 Can't code without music
-<p align="center">
-![test](https://spotify-recently-played-readme.vercel.app/api?user=rudcnyvuwn42a0dekqceqa85k)
-</p>
+<div align="center">
+	![test](https://spotify-recently-played-readme.vercel.app/api?user=rudcnyvuwn42a0dekqceqa85k)
+</div>
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
