@@ -150,7 +150,7 @@
 	<a href="https://github.com/PasinduBandaraa"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://linkedin.com/in/pasindubandaraa"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/pasindu.bandara.58760"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://instagram.com/pasindu_aththanayake"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://instagram.com/pasindubandaraa"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	
 </p>
 
