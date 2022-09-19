@@ -11,10 +11,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=PasinduBandaraa&label=Profile%20views&color=0e75b6&style=flat" alt="PasinduBandaraa" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PasinduBandaraa&theme=dark" alt="PasinduBandaraa"  /></p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PasinduBandaraa&theme=merko&border_radius=9)](https://git.io/streak-stats)
-
+<p align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PasinduBandaraa&theme=merko&border_radius=9)](https://git.io/streak-stats)</p>
 
 ## 🛠️ My Skills
 
