@@ -12,7 +12,7 @@
 
 ## 🔥 Streak Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pasindubandaraa&theme=dark" alt="MethmiRanasinghe"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pasindubandaraa&theme=merko" alt="MethmiRanasinghe"  /></p>
 
 ## 🛠️ My Skills
 
