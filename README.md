@@ -12,6 +12,7 @@
 
 ## 🔥 Streak Stats
 <p align="center"><img scr = "https://github-readme-streak-stats.herokuapp.com?user=PasinduBandaraa&theme=merko&border_radius=9"/></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PasinduBandaraa&theme=merko&border_radius=9)](https://git.io/streak-stats)
 
 ## 🛠️ My Skills
 
