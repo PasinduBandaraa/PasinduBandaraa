@@ -10,6 +10,8 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=PasinduBandaraa&label=Profile%20views&color=0e75b6&style=flat" alt="PasinduBandaraa" /> </p>
 
+[![@pasindubandara's Holopin board](https://holopin.me/pasindubandara)](https://holopin.io/@pasindubandara)
+
 ## 🔥 Streak Stats
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pasindubandaraa&theme=merko" alt="MethmiRanasinghe"  /></p>
