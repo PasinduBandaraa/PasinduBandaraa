@@ -10,8 +10,10 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=PasinduBandaraa&label=Profile%20views&color=0e75b6&style=flat" alt="PasinduBandaraa" /> </p>
 
+## 🛡️ My Badges
 [![@pasindubandara's Holopin board](https://holopin.me/pasindubandara)](https://holopin.io/@pasindubandara)
 
+## 🐍 Contribution eating snake
 ![snake gif](https://github.com/pasindubandaraa/pasindubandaraa/blob/output/github-contribution-grid-snake.gif)
 
 ## 🔥 Streak Stats
