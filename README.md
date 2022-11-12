@@ -14,7 +14,7 @@
 [![@pasindubandara's Holopin board](https://holopin.me/pasindubandara)](https://holopin.io/@pasindubandara)
 
 ## 🐍 Contribution eating snake
-![snake gif](https://github.com/pasindubandaraa/pasindubandaraa/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/pasindubandaraa/pasindubandaraa/blob/output/github-contribution-grid-snake.svg)
 
 ## 🔥 Streak Stats
 
