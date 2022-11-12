@@ -12,6 +12,8 @@
 
 [![@pasindubandara's Holopin board](https://holopin.me/pasindubandara)](https://holopin.io/@pasindubandara)
 
+![snake gif](https://github.com/pasindubandaraa/pasindubandaraa/blob/output/github-contribution-grid-snake.gif)
+
 ## 🔥 Streak Stats
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pasindubandaraa&theme=merko" alt="MethmiRanasinghe"  /></p>
