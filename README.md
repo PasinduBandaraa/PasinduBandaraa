@@ -151,7 +151,8 @@
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-  <a href="https://sites.google.com/view/pasindubandara/home/"><img src="https://icons8.com/icon/iJzm3AFQCS4W/home.png" alt="Website"/></a>
+  <a href="https://sites.google.com/view/pasindubandara/home/"><img src="![image](https://user-images.githubusercontent.com/72030365/204106997-5c63783a-3502-4c64-a7a5-f4b05cc77f83.png)
+" alt="Website"/></a>
 	<a href="mailto:pasindubandara99@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/PasinduBandaraa"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://linkedin.com/in/pasindubandaraa"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
