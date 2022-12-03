@@ -138,6 +138,9 @@
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/PasinduBandaraa"><img alt="Pasindu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PasinduBandaraa&custom_title=Pasindu%20Bandara's%20Contribution%20Graph&theme=react-dark" /></a>
+	
+[![Ashutosh's github activity graph]
+	(https://activity-graph.herokuapp.com/graph?username=PasinduBandaraa&theme=dracula)](https://github.com/PasinduBandaraa/github-readme-activity-graph)
   <br/>
 
 </details>
