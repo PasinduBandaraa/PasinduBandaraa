@@ -154,10 +154,10 @@
 <p align="center">
   <a href="https://sites.google.com/view/pasindubandara/home/"><img src="https://img.icons8.com/fluency/48/null/globe.png" alt="Website"/></a>
 	<a href="mailto:pasindubandara99@gmail.com"><img src="https://img.icons8.com/color/48/null/gmail-new.png" alt="Gmail"/></a>
-	<a href="https://github.com/PasinduBandaraa"><img src="https://img.icons8.com/3d-fluency/94/null/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/pasindubandaraa"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/pasindu.bandara.58760"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://instagram.com/pasindubandaraa"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://github.com/PasinduBandaraa"><img src="https://img.icons8.com/sf-black-filled/64/null/github.png" alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/pasindubandaraa"><img src="https://img.icons8.com/color/48/null/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/pasindu.bandara.58760"><img src="https://img.icons8.com/fluency/48/null/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://instagram.com/pasindubandaraa"><img src="https://img.icons8.com/fluency/48/null/instagram-new.png" alt="Instagram"/></a>
 	
 </p>
 
