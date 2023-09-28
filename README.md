@@ -8,7 +8,7 @@
     communication skills, which support me to effectively
     communicate with others.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=PasinduBandaraa&label=Profile%20views&color=0e75b6&style=flat" alt="PasinduBandaraa" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=PasinduBandaraa&label=Profile%20views&color=0e75b6&style=flat" alt="PasinduBandara" /> </p>
 
 ## 🛡️ My Badges
 [![@pasindubandara's Holopin board](https://holopin.me/pasindubandara)](https://holopin.io/@pasindubandara)
@@ -18,7 +18,7 @@
 
 ## 🔥 Streak Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pasindubandaraa&theme=merko" alt="MethmiRanasinghe"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pasindubandaraa&theme=merko" alt="PasinduBandara"  /></p>
 
 ## 🛠️ My Skills
 
