@@ -10,7 +10,7 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=PasinduBandaraa&label=Profile%20views&color=0e75b6&style=flat" alt="PasinduBandara" /> </p>
 
-<img alt="Alt text" src="image.png">
+<img alt="Alt text" src="image-2.png">
 
 
 ## 🛡️ My Badges
