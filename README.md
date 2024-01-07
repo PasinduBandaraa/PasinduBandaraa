@@ -10,6 +10,9 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=PasinduBandaraa&label=Profile%20views&color=0e75b6&style=flat" alt="PasinduBandara" /> </p>
 
+<img alt="Alt text" src="image.png">
+
+
 ## 🛡️ My Badges
 [![@pasindubandara's Holopin board](https://holopin.me/pasindubandara)](https://holopin.io/@pasindubandara)
 
