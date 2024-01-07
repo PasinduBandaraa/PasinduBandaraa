@@ -8,7 +8,26 @@
     communication skills, which support me to effectively
     communicate with others.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=PasinduBandaraa&label=Profile%20views&color=0e75b6&style=flat" alt="PasinduBandara" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=PasinduBandaraa&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="PasinduBandara" /> </p>
+
+ &nbsp;  
+
+<p align="center">
+  <a href="https://sites.google.com/view/pasindubandara/home/"><img src="https://img.shields.io/badge/My%20Portfolio-white?style=for-the-badge" alt="Website"/></a>
+  &nbsp; &nbsp;
+  <a href="mailto:pasindubandara99@gmail.com"><img src="https://img.shields.io/badge/Gmail-darkred?style=for-the-badge&logo=gmail"/></a>
+	&nbsp; &nbsp;
+	<a href="https://github.com/PasinduBandaraa"><img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github"/></a>
+	&nbsp; &nbsp;
+	<a href="https://linkedin.com/in/pasindubandaraa"><img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin"/></a>
+	&nbsp; &nbsp;
+	<a href="https://www.facebook.com/pasindu.bandara.58760"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook"/></a>
+	&nbsp; &nbsp;
+	<a href="https://instagram.com/pasindubandaraa"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"/></a>
+	
+</p>
+
+&nbsp;
 
 <img alt="Alt text" src="image-2.png">
 
@@ -147,21 +166,5 @@
 </details>
 
 <br/>
-
-## 🎧 Can't code without music
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=rudcnyvuwn42a0dekqceqa85k)
-
-
-## 🙋‍♀️ Let's Connect
-<p align="center">
-  <a href="https://sites.google.com/view/pasindubandara/home/"><img src="https://img.icons8.com/fluency/48/null/globe.png" alt="Website"/></a>
-	<a href="mailto:pasindubandara99@gmail.com"><img src="https://img.icons8.com/color/48/null/gmail-new.png" alt="Gmail"/></a>
-	<a href="https://github.com/PasinduBandaraa"><img src="https://img.icons8.com/fluency/48/null/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/pasindubandaraa"><img src="https://img.icons8.com/color/48/null/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/pasindu.bandara.58760"><img src="https://img.icons8.com/fluency/48/null/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://instagram.com/pasindubandaraa"><img src="https://img.icons8.com/fluency/48/null/instagram-new.png" alt="Instagram"/></a>
-	
-</p>
 
 <hr/>
