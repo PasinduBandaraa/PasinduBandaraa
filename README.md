@@ -8,7 +8,9 @@
     communication skills, which support me to effectively
     communicate with others.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=PasinduBandaraa&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="PasinduBandara" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=PasinduBandaraa&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="PasinduBandara" /> 
+	&nbsp; &nbsp;
+	<img src="https://img.shields.io/github/followers/pasindubandaraa?style=for-the-badge"/> </p>
 
  &nbsp;  
 
@@ -57,7 +59,7 @@
 <p align="left"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
+    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white&style=for-the-badge">
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
