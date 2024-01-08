@@ -39,8 +39,16 @@
 ![snake gif](https://github.com/pasindubandaraa/pasindubandaraa/blob/output/github-contribution-grid-snake.svg)
 
 ## 🔥 Streak Stats
+<p align="center">
+	
+![pasindubandaraa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pasindubandaraa&theme=gotham&hide_border=true)
+	
+![pasindubandaraa's Stats](https://github-readme-stats.vercel.app/api?username=pasindubandaraa&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pasindubandaraa&theme=merko" alt="PasinduBandara"  /></p>
+![pasindubandaraa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pasindubandaraa&theme=gotham&show_icons=true&hide_border=true&layout=compact)
+
+
+</p>
 
 ## 🛠️ My Skills
 
@@ -138,32 +146,6 @@
 </p>
 
 <br/>
-
-## 📊 Github Stats (Expand to View) 
-
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pasindu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PasinduBandaraa&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PasinduBandaraa&show_icons=true&locale=en&layout=compact&theme=algolia" alt="PasinduBandaraa" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/PasinduBandaraa"><img alt="Pasindu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PasinduBandaraa&custom_title=Pasindu%20Bandara's%20Contribution%20Graph&theme=react-dark" /></a>
-
-  <br/>
-
-</details>
 
 <br/>
 
