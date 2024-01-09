@@ -43,8 +43,6 @@
 ## 🔥 Streak Stats
 <p align="center">
 	
-![pasindubandaraa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pasindubandaraa&theme=gotham&hide_border=true)
-	
 ![pasindubandaraa's Stats](https://github-readme-stats.vercel.app/api?username=pasindubandaraa&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 
 ![pasindubandaraa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pasindubandaraa&theme=gotham&show_icons=true&hide_border=true&layout=compact)
