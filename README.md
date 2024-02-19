@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2344F722&lines=Cyber+Security+Student;Cyber+Security+Researcher;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p> <hr/>
-<h4 align="center">I am a hardworking and ambitious individual with a great
+<h4 align="center">I'm a hardworking and ambitious individual with a great
     passion for the IT and Digital marketing industries. I always try
     to use a creative approach to problem solve. I have excellent
     communication skills, which support me to effectively
